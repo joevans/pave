@@ -27,7 +27,7 @@
 .pave{animation:draw 1.5s linear;stroke-dashArray: 1300;stroke-dashoffset: 0;stroke:#002a46;}
 @keyframes draw{0%,90%{fill:transparent;}0%{stroke-dashoffset:1300;}}
 </style></defs>
-	<path class="wing middle cls-2" d="M557 295s-15.7-13.9-31-14c-19.4-0.2-34.7 18.7-43 36s-14 47-14 47l-22 68 13 11 40-64-19 82 44 39 43-38-21-83 40 66 14-12L569 330s3.6-6 10-6 16 6 16 6-9.6-29.1-33-29c-28.6-49 30-49 30s8.4-18.6 21-28C542.7 296.6 557 295 557 295Z"/>
+	<path class="wing middle cls-2" d="M557 296s-15.7-13.9-31-14c-19.4-0.2-34.7 18.7-43 36s-14 47-14 47l-25 69 13 11 43-65-20 84 46 37 43-35-22-86 42 70 15-12L569 331s3.6-6 10-6 16 6 16 6-9.6-29.1-33-29c-28.6-49 30-49 30s8.4-18.6 21-28C542.7 297.6 557 296 557 296Z"/>
 	<path class="wing bot-left lg cls-2" d="M486 486l40 33L295 682l34-84Z"/>
 	<path class="wing bot-left med cls-2" d="M441 449l39 32L335 584l31-79Z"/>
 	<path class="wing bot-left sm cls-2" d="M402 417l-30 73 62-47Z"/>
@@ -43,7 +43,7 @@
 	<path class="wing top sm cls-1" d="M588 195l22 72H567Z"/>
 	<path class="wing top med cls-1" d="M558 99l26 83-25 85H510Z"/>
 	<path class="wing top lg cls-1" d="M527 0l26 83L501 267H450Z"/>
-
+	
 	<path class="pave period-4 cls-1" d="M1036 849l-6 38H979l7-38h50Z"/>
 	<path class="pave E cls-1" d="M990 735H850l-44 38L786 887H963l4-26H841l5-25H971l5-25H850l7-38 14-12h63l-4 25h50Z"/>
 	<path class="pave period-3 cls-1" d="M776 849l-7 38H719l6-38h51Z"/>
@@ -53,3 +53,4 @@
 	<path class="pave period-1 cls-1" d="M255 849l-6 38H198l7-38h50Z"/>
 	<path class="pave P cls-1" d="M69 735H208l-11 63-44 38H90l4-25h38l14-13 7-37H90L75 774 56 887H5L25 773Z"/>
 </svg>
+
